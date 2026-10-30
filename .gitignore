@@ -1,0 +1,41 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Byte-compiled / Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / Empacotamento
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Configurações de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs e Bancos Temporários
+*.log
+*.sqlite3
+*.db
+
+# Dados pesados brutos do OpenML / Cache local Scikitlearn (exceto imagens de amostra em data/samples)
+data/openml_cache/
+
+# Pasta pessoal de roteiro de apresentação em vídeo
+roteiro/
+
