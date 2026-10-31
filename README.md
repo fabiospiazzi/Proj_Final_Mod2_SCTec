@@ -324,7 +324,6 @@ git merge --no-ff develop -m "finaliza release de producao do microsservico mnis
 
 ---
 
-## 8. Links das Evidências (Vídeo e Repositório)
+## 8. Link Vídeo
 
-- 🎥 **Vídeo de Apresentação e Demonstração (Google Drive — Modo Leitor):** `[INSIRA_AQUI_O_LINK_DO_SEU_VIDEO_NO_GOOGLE_DRIVE]`
-- 💻 **Repositório Público no GitHub:** `[INSIRA_AQUI_O_LINK_DO_SEU_REPOSITORIO_NO_GITHUB]`
+- 🎥 **Vídeo de Apresentação e Demonstração (Google Drive — Modo Leitor):** `https://drive.google.com/file/d/1kgfU2dNONvieRtwBYz_ZlKK80B_9IJeZ/view?usp=sharing`
